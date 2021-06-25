@@ -1,2 +1,2 @@
 # npl_dog_names
-![Banner](https://www.dropbox.com/home/Public/Banners?preview=Puppy-Lineup.jpg)
+![Banner](https://github.com/anievescordeiro/npl_dog_names/blob/main/whosluca.jpg)
