@@ -1,6 +1,6 @@
 # npl_dog_names
 
-![alt text](https://www.dropbox.com/home/Public/Banners?preview=Puppy-Lineup.jpg)
+![alt text](https://github.com/anievescordeiro/npl_dog_names/blob/main/whosluca.jpg)
 
 ## Let's find matching names for "Luca"
 
@@ -10,4 +10,4 @@ I came across this by chance in a job application task, but I'm excited to be ab
 
 Here is the thing, given a table with dog names in Zurich, the goal is to find all names that have a Levenshtein distance of 1 to "Luca", Let's find Luca then! 🐶 
 
-You can try this task interactively at the following Binder link [![Binder](https://hub-binder.mybinder.ovh/user/anievescordeiro-npl_dog_names-rg1kn22l/notebooks/dog_names.ipynb)
+You can try this task interactively at the following Binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/anievescordeiro-npl_dog_names-rg1kn22l/notebooks/dog_names.ipynb)
