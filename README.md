@@ -10,4 +10,4 @@ I came across this by chance in a job application task, but I'm excited to be ab
 
 Here is the thing, given a table with dog names in Zurich, the goal is to find all names that have a Levenshtein distance of 1 to "Luca", Let's find Luca then! 🐶 
 
-You can try this task interactively at the following Binder link [![Binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anievescordeiro/npl_dog_names/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fanievescordeiro%2Fnpl_dog_names%2Fblob%2Fmain%2Fdog_names.ipynb))
+You can try this task interactively at the following Binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anievescordeiro/npl_dog_names/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fanievescordeiro%2Fnpl_dog_names%2Fblob%2Fmain%2Fdog_names.ipynb)
