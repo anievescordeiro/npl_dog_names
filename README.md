@@ -4,7 +4,7 @@
 
 ## Let's find matching names for "Luca"
 
-Have you ever wanted to compare strings that were referring to the same thing, but they were written slightly different, maybe had typos or were misspelled? This is called Fuzzy String Matching, and we can accomplish a lot using a Python library that provide a nice metric to do this: The Levenshtein Distance. 
+Have you ever wanted to compare strings that were referring to the same thing, but they were written slightly different, maybe had typos or were misspelled? This is called **Fuzzy String Matching**, and we can accomplish a lot using a Python library that provide a nice metric to do this: **The Levenshtein Distance**. 
 
 I came across this by chance in a job application task, but I'm excited to be able to explore the use of this metric further. 
 
